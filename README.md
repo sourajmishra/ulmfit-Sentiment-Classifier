@@ -1,1 +1,2 @@
-# ulmfit-Sentiment-Classifier
+# twitter-celebrity-tweet-sentiment
+Tweet analysis with ULMFiT
